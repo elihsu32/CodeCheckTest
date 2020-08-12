@@ -1,0 +1,2 @@
+# CodeCheckTest
+coverity_verify
